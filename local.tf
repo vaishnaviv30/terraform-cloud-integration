@@ -9,6 +9,7 @@ locals {
     Owner       = local.owner
     Environment = local.environment
     Project     = "kyn"
+    terraform = "cloud"
   }
   #in key value format 
 }
